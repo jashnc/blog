@@ -25,7 +25,7 @@ The United States has a 2 party system. The 2 party system is not a system that 
 
 How does a winner-take-all voting incentivize a 2 party system? Here's an example:
 
-Imagine the (imaginary) state of West Dakota. West Dakota has 4 parties, each with relatively equal splits of support, let's say 25% each. During a senate election, 1 senate seat is up for grabs. Let's say that Party 1 and Party 2 are more left-leaning while Party 3 and Party 4 are more right-leaning. The Senate candidate for Party 1 is highly partisan and very principled. His/her party would never consider joining forces with Party 2 as a result, despite being ideologically similar. The Senate candidate for Party 3 and 4 are flexible and care more about right-leaning policies being instituted, than individual election victories. Both Party 3 and Party 4 acknowledge that their political views are similar, and it is therefore advantageous to join forces to make the Super Party so that they get 50% of support. In the election that follows:
+Imagine the (imaginary) state of West Dakota. West Dakota has 4 parties, each with relatively equal splits of support, let's say 25% each. During a senate election, 1 senate seat is up for grabs. Let's say that Party 1 and Party 2 are more left-leaning while Party 3 and Party 4 are more right-leaning. The Senate candidate for Party 1 is highly partisan and very principled. His/her party would never consider joining forces with Party 2 as a result, despite being ideologically similar. The Senate candidates for Party 3 and 4 are flexible and care more about right-leaning policies being instituted, than individual election victories. Both Party 3 and Party 4 acknowledge that their political views are similar, and it is therefore advantageous to join forces to make the Super Party, and run under a single candidate, so that they get 50% of support. In the election that follows:
 
 - Party 1 gets 25% of the vote
 - Party 2 gets 25% of the vote
@@ -34,6 +34,8 @@ Imagine the (imaginary) state of West Dakota. West Dakota has 4 parties, each wi
 In most states, the Super Party would win the Senate seat outright. In this example you can see that there is a VERY STRONG incentive for similar-minded parties to simply consolidate in order to win the very limited seats (just 1 in this election). These incentives exist in most configurations. You could imagine that after Party 1 and 2 loses this election, they realize they will never win again unless they too join forces.
 
 The same is true of presidential elections where most states allocate ALL electoral votes to the candidate who gets a plurality of votes. No political party in the long run will survive this kind of system unless they create broad coalitions, and ultimately a single political party identity. And thus you have Democrats and Republicans and small-3rd-parties-who-never-win.
+
+The winner-take-all system is the opposite of proportional representation. In a system that uses proportional representation, the parties representation in Congress would be proportional to the voting share they got in the election (in this example, 25%, 25%, and 50%). This allows for a broader variety of views in our government.
 
 ## Polarization, the 2 party system, and you
 
@@ -53,7 +55,7 @@ I don't really have a great solution for political polarization on a systemic le
 
 2) **Be aware of tricks your mind plays on you to feel good.** Read up on [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), [in-group bias](https://en.wikipedia.org/wiki/In-group_favoritism), and [the Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
 
-3) Delete Facebook. Hit the gym. Lawyer Up. Just kidding, but DO reduce the time you spend on social media.
+3) Delete Facebook. Hit the gym. Lawyer Up. Just kidding, but **DO reduce the time you spend on social media.**
 
 4) **Seek out a variety of views**, and don't dismiss them wholesale. Yes, it's uncomfortable but you'll be a better (and more likeable) person.
 
